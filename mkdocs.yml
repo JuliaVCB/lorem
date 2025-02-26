@@ -1,0 +1,6 @@
+site_name: Lorem Ipsum
+site_author: Fulano de town
+
+theme:
+ name: material
+ language: pt
